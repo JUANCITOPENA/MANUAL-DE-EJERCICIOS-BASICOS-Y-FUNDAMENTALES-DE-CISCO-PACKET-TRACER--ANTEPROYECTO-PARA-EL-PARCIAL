@@ -4,11 +4,6 @@ Este repositorio alberga un recurso educativo valioso diseñado para aquellos qu
 
 ![PORTADA](PORTADA.png)
 
-<a href="https://www.youtube.com/watch?v=Ezj9aN2xD7w" target="_blank"><img src="video1.png" alt="Video 1"></a>
-
-<a href="https://www.youtube.com/watch?v=jbecZXNd8H4" target="_blank"><img src="video2.png" alt="Video 2"></a>
-
-
 ## Características Clave
 
 - **Fundamentos de Redes**: Este manual profundiza en los conceptos esenciales de las redes informáticas, estableciendo una base sólida para comprender la infraestructura de red.
@@ -27,10 +22,9 @@ Para comenzar, consulta la documentación en el directorio "Documentación" y si
 
 ## Mira los 2 videos Aqui:
 
-[![Video 1](video2.png)](https://www.youtube.com/watch?v=Ezj9aN2xD7w){:target="_blank"}
+<a href="https://www.youtube.com/watch?v=Ezj9aN2xD7w" target="_blank"><img src="video1.png" alt="Video 1"></a>
 
-[![Video 2](video1.png)](https://www.youtube.com/watch?v=jbecZXNd8H4){:target="_blank"}
-
+<a href="https://www.youtube.com/watch?v=jbecZXNd8H4" target="_blank"><img src="video2.png" alt="Video 2"></a>
 
 
 ## Contribuciones
