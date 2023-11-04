@@ -46,13 +46,13 @@ En este proyecto, también vimos cómo subir archivos al servidor Web HTTP con H
 
 Hemos creado una serie de plantillas y ejemplos que te ayudarán a comprender y configurar sistemas de telefonía en tu entorno de red. Estas plantillas pueden servir como punto de partida para tus propios proyectos y experimentos.
 
-![PORTADA](youtube.png)
+![PORTADA](Youtube.png)
 
-![PORTADA](linkedin.png)
+![PORTADA](Linkedin.png)
 
-![PORTADA](google.png)
+![PORTADA](Google.png)
 
-![PORTADA](facebook.png)
+![PORTADA](Facebook.png)
 
 ## Cómo Contribuir
 
