@@ -2,6 +2,9 @@
 
 Este repositorio alberga un recurso educativo valioso diseñado para aquellos que buscan adquirir una comprensión sólida de los fundamentos de redes y configuraciones prácticas. Nuestro enfoque se centra en la implementación de redes locales (LAN), proporcionando a los usuarios una experiencia práctica en la configuración de redes.
 
+![Texto Alternativo](URL de la imagen)
+
+
 ## Características Clave
 
 - **Fundamentos de Redes**: Este manual profundiza en los conceptos esenciales de las redes informáticas, estableciendo una base sólida para comprender la infraestructura de red.
