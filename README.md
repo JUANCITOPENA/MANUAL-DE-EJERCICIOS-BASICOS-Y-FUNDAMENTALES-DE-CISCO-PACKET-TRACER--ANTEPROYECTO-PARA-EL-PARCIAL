@@ -21,6 +21,11 @@ Este repositorio alberga un recurso educativo valioso diseñado para aquellos qu
 
 Para comenzar, consulta la documentación en el directorio "Documentación" y sigue las instrucciones paso a paso para configurar tus redes. Cada ejercicio está diseñado para proporcionarte una experiencia de aprendizaje práctica y significativa.
 
+[![Video 1](URL_de_la_miniatura_1)](https://www.youtube.com/watch?v=Ezj9aN2xD7w)
+
+[![Video 2](URL_de_la_miniatura_2)](https://www.youtube.com/watch?v=jbecZXNd8H4)
+
+
 ## Contribuciones
 
 Si deseas contribuir a este proyecto o realizar mejoras, te invitamos a enviar solicitudes de extracción. Juntos, podemos seguir enriqueciendo este recurso de aprendizaje.
@@ -30,3 +35,14 @@ Si deseas contribuir a este proyecto o realizar mejoras, te invitamos a enviar s
 Este proyecto se distribuye bajo la Licencia MIT. Puedes obtener más información en el archivo [LICENSE](LICENSE).
 
 ¡Esperamos que este manual sea útil en tu viaje de aprendizaje en el mundo de las redes!
+
+# RedesCisco #ProyectoDeRedes #CiscoPacketTracer 🌐💻📡
+
+¡No olvides suscribirte, compartir, dar like y dejar tus comentarios en la sección de abajo! Tu apoyo es fundamental para mí y me ayuda a seguir creando contenido. 💚
+
+1. 🎬 [Youtube](https://www.youtube.com/@JuancitoPenaV)
+2. 👨‍💼 [LinkedIn](https://www.linkedin.com/in/juancitope%C3%B1a/)
+3. 📰 [Blog](https://advisertecnology.com/)
+4. 📷 [Instagram](https://www.instagram.com/juancito.pena.v/)
+5. 📑 [Facebook](https://www.facebook.com/juancito.p.v)
+6. 🐦 [Twitter](https://twitter.com/JuancitoPenaV)
