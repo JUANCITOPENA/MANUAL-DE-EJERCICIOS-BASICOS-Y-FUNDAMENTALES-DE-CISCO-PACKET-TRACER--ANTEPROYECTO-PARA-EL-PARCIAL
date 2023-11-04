@@ -2,7 +2,7 @@
 
 Este repositorio alberga un recurso educativo valioso diseñado para aquellos que buscan adquirir una comprensión sólida de los fundamentos de redes y configuraciones prácticas. Nuestro enfoque se centra en la implementación de redes locales (LAN), proporcionando a los usuarios una experiencia práctica en la configuración de redes.
 
-![Texto Alternativo](URL de la imagen)
+![PORTADA](PORTADA.png)
 
 
 ## Características Clave
