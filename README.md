@@ -54,22 +54,6 @@ Hemos creado una serie de plantillas y ejemplos que te ayudarán a comprender y 
 
 ![PORTADA](Facebook.png)
 
-## Cómo Contribuir
-
-Tu contribución es valiosa para mejorar este proyecto. Si tienes ideas, correcciones o mejoras, no dudes en abrir problemas o enviar solicitudes de extracción. ¡Estamos emocionados por colaborar contigo!
-
-No olvides suscribirte, darle like y compartir este proyecto. Tu apoyo nos ayuda a seguir creando contenido de calidad.
-
-¡Gracias por ser parte de nuestro proyecto de telefonía!
-
----
-
-## Enlaces Útiles
-
-- [Visita nuestro sitio web](https://tu-sitio-web.com)
-- [Síguenos en Twitter](https://twitter.com/tu-usuario)
-
-
 ## Contribuciones
 
 Si deseas contribuir a este proyecto o realizar mejoras, te invitamos a enviar solicitudes de extracción. Juntos, podemos seguir enriqueciendo este recurso de aprendizaje.
