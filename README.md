@@ -21,9 +21,9 @@ Este repositorio alberga un recurso educativo valioso diseñado para aquellos qu
 
 Para comenzar, consulta la documentación en el directorio "Documentación" y sigue las instrucciones paso a paso para configurar tus redes. Cada ejercicio está diseñado para proporcionarte una experiencia de aprendizaje práctica y significativa.
 
-[![Video 1](URL_de_la_miniatura_1)](https://www.youtube.com/watch?v=Ezj9aN2xD7w)
+[![Video 1](video2.png)](https://www.youtube.com/watch?v=Ezj9aN2xD7w)
 
-[![Video 2](URL_de_la_miniatura_2)](https://www.youtube.com/watch?v=jbecZXNd8H4)
+[![Video 2](video1.png)](https://www.youtube.com/watch?v=jbecZXNd8H4)
 
 
 ## Contribuciones
