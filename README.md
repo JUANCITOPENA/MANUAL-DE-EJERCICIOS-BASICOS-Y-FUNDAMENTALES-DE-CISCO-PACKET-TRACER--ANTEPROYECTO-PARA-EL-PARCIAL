@@ -26,6 +26,49 @@ Para comenzar, consulta la documentación en el directorio "Documentación" y si
 
 <a href="https://www.youtube.com/watch?v=jbecZXNd8H4" target="_blank"><img src="video2.png" alt="Video 2"></a>
 
+# Proyecto de Telefonía - Descripción
+
+¡Bienvenido a nuestro emocionante proyecto de telefonía! Este proyecto tiene como objetivo proporcionarte plantillas y recursos relacionados con la configuración y administración de sistemas de telefonía en un entorno de red.
+
+## Acerca del Proyecto de las Plantilas HTML y CSS:
+
+En este proyecto, también vimos cómo subir archivos al servidor Web HTTP con HTML y CSS. Las actividades realizadas incluyeron:
+
+- Configuración de servidores HTTP.
+- Implementación de protocolos de comunicación como DNS.
+- Creación de una plantilla para simular el navegador Google.
+- Creación de una plantilla para LinkedIn en HTML y CSS.
+- Creación de una plantilla para simular YouTube con HTML y CSS.
+- Creación de una plantilla del login de Facebook con HTML y CSS.
+
+
+## Plantillas y Recursos
+
+Hemos creado una serie de plantillas y ejemplos que te ayudarán a comprender y configurar sistemas de telefonía en tu entorno de red. Estas plantillas pueden servir como punto de partida para tus propios proyectos y experimentos.
+
+![PORTADA](youtube.png)
+
+![PORTADA](linkedin.png)
+
+![PORTADA](google.png)
+
+![PORTADA](facebook.png)
+
+## Cómo Contribuir
+
+Tu contribución es valiosa para mejorar este proyecto. Si tienes ideas, correcciones o mejoras, no dudes en abrir problemas o enviar solicitudes de extracción. ¡Estamos emocionados por colaborar contigo!
+
+No olvides suscribirte, darle like y compartir este proyecto. Tu apoyo nos ayuda a seguir creando contenido de calidad.
+
+¡Gracias por ser parte de nuestro proyecto de telefonía!
+
+---
+
+## Enlaces Útiles
+
+- [Visita nuestro sitio web](https://tu-sitio-web.com)
+- [Síguenos en Twitter](https://twitter.com/tu-usuario)
+
 
 ## Contribuciones
 
