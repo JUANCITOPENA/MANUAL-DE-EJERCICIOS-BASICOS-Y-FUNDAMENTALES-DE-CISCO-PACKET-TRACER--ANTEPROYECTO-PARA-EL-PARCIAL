@@ -4,6 +4,10 @@ Este repositorio alberga un recurso educativo valioso diseñado para aquellos qu
 
 ![PORTADA](PORTADA.png)
 
+<a href="https://www.youtube.com/watch?v=Ezj9aN2xD7w" target="_blank"><img src="video1.png" alt="Video 1"></a>
+
+<a href="https://www.youtube.com/watch?v=jbecZXNd8H4" target="_blank"><img src="video2.png" alt="Video 2"></a>
+
 
 ## Características Clave
 
