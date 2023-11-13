@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Página de contenido de YouTube</title>
+    <style>
+        /* Estilos personalizados */
+        body {
+            background-color: #fff;
+            margin: 0;
+            font-family: Arial, sans-serif;
+        }
+        .top-bar {
+            background-color: #f2f2f2; /* Fondo gris */
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            position: fixed;
+            width: calc(70% - 250px); /* 70% del ancho disponible menos el ancho del menú lateral */
+            top: 20px; /* Padding-top de 20px */
+            left: 250px; /* Ancho del menú lateral */
+            z-index: 1;
+        }
+        .search-bar {
+            display: flex;
+            align-items: center;
+        }
+        .search-icon {
+            margin-right: 10px;
+            color: #606060;
+        }
+        .search-input {
+            border: none;
+            outline: none;
+            width: 90%;
+        }
+        .sidebar {
+            background-color: #fff;
+            width: 250px;
+            position: fixed;
+            height: 100%;
+            border-right: 1px solid #ccc;
+        }
+        .sidebar-logo {
+            text-align: center;
+            padding: 10px 0;
+        }
+        .sidebar-logo img {
+            width: 220px;
+            height: 120px;
+        }
+        .sidebar-menu {
+            padding: 20px 0;
+        }
+        .sidebar-menu a {
+            display: block;
+            padding: 10px 15px;
+            text-decoration: none;
+            color: #606060;
+        }
+        .sidebar-menu a:hover {
+            background-color: #f7f7f7;
+        }
+        .sidebar-divider {
+            border-top: 1px solid #ccc;
+            margin: 20px 0;
+        }
+
+        /* Estilos para el contenido principal */
+        .container {
+            margin-top: 60px; /* Espacio para la barra de búsqueda */
+            margin-left: 320px; /* Ancho del menú lateral */
+            padding: 20px;
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+        .video-card-group {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+        .video-card {
+            max-width: 320px;
+            width: 100%;
+            margin: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            padding: 10px;
+            background-color: #fff;
+        }
+        .video-card h4 {
+            margin-top: 10px;
+        }
+        .video-description {
+            color: #606060;
+        }
+    </style>
+</head>
+<body>
+    <!-- Barra de búsqueda fija en la parte superior -->
+    <div class="top-bar">
+        <div class="search-bar">
+            <div class="search-icon">
+                <img src="lupa.png" width="24" height="24" viewBox="0 0 24 24" alt="Buscar">
+            </div>
+            <input type="text" placeholder="Buscar Video">
+            <button class="search-button">Buscar</button>
+        </div>
+    </div>
+
+    <!-- Sidebar -->
+    <div class="sidebar">
+        <div class="sidebar-logo">
+            <img src="YouTube.png" alt="YouTube Logo">
+        </div>
+        <div class="sidebar-menu">
+            <a href="#">Home</a>
+            <a href="#">Shorts</a>
+            <a href="#">Subscriptions</a>
+        </div>
+        <div class="sidebar-divider"></div>
+        <div class="sidebar-menu">
+            <a href="#">You</a>
+            <a href="#">Historial</a>
+        </div>
+    </div>
+
+   <!-- Contenido principal -->
+   <div class="container">
+    <div class="video-card-group">
+        <!-- Primer grupo de 4 videos -->
+        <div class="video-card">
+            <div class="embed-responsive embed-responsive-16by9">
+                <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/VIDEO_ID_1" allowfullscreen></iframe>
+            </div>
+            <h4>Título del Video 1</h4>
+            <p class="video-description">Descripción del Video 1</p>
+        </div>
+        <div class="video-card">
+            <div class="embed-responsive embed-responsive-16by9">
+                <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/VIDEO_ID_2" allowfullscreen></iframe>
+            </div>
+            <h4>Título del Video 2</h4>
+            <p class="video-description">Descripción del Video 2</p>
+        </div>
+        <div class="video-card">
+            <div class="embed-responsive embed-responsive-16by9">
+                <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/VIDEO_ID_3" allowfullscreen></iframe>
+            </div>
+            <h4>Título del Video 3</h4>
+            <p class="video-description">Descripción del Video 3</p>
+        </div>
+        <div class="video-card">
+            <div class="embed-responsive embed-responsive-16by9">
+                <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/VIDEO_ID_4" allowfullscreen></iframe>
+            </div>
+            <h4>Título del Video 4</h4>
+            <p class="video-description">Descripción del Video 4</p>
+        </div>
+
+        <!-- Segundo grupo de 4 videos (puedes agregar más grupos) -->
+        <div class="video-card">
+            <div class="embed-responsive embed-responsive-16by9">
+                <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/VIDEO_ID_5" allowfullscreen></iframe>
+            </div>
+            <h4>Título del Video 5</h4>
+            <p class="video-description">Descripción del Video 5</p>
+        </div>
+        <div class="video-card">
+            <div class="embed-responsive embed-responsive-16by9">
+                <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/VIDEO_ID_6" allowfullscreen></iframe>
+            </div>
+            <h4>Título del Video 6</h4>
+            <p class="video-description">Descripción del Video 6</p>
+        </div>
+        <div class="video-card">
+            <div class="embed-responsive embed-responsive-16by9">
+                <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/VIDEO_ID_7" allowfullscreen></iframe>
+            </div>
+            <h4>Título del Video 7</h4>
+            <p class="video-description">Descripción del Video 7</p>
+        </div>
+        <div class="video-card">
+            <div class="embed-responsive embed-responsive-16by9">
+                <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/VIDEO_ID_8" allowfullscreen></iframe>
+            </div>
+            <h4>Título del Video 8</h4>
+            <p class="video-description">Descripción del Video 8</p>
+        </div>
+        <div class="video-card">
+            <div class="embed-responsive embed-responsive-16by9">
+                <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/VIDEO_ID_8" allowfullscreen></iframe>
+            </div>
+            <h4>Título del Video 8</h4>
+            <p class="video-description">Descripción del Video 8</p>
+        </div>
+    </div>
+</div>
+</body>
+</html>

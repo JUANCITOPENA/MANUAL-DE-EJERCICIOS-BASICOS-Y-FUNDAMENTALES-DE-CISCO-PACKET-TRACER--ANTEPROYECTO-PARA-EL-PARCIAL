@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portada de LinkedIn</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background: rgb(148,221,19);
+            background: linear-gradient(90deg, rgba(148,221,19,1) 0%, rgba(181,221,233,1) 0%, rgba(27,57,226,1) 100%);
+        }
+
+        .navbar {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            background: linear-gradient(45deg, #0073b1, #005586);
+            color: #fff;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 10px 20px;
+            z-index: 999;
+        }
+
+        .logo {
+            font-size: 24px;
+            font-weight: bold;
+            margin-right: auto;
+        }
+
+        .menu {
+            display: flex;
+        }
+
+        .menu-item {
+            margin-left: 20px;
+        }
+
+        .cover {
+            background-image: url('');
+            background-size: cover;
+            background-position: center;
+            height: 250px;
+            position: relative;
+            margin-top: 60px; /* Alineación con el menú fijo */
+        }
+
+        .profile-pic {
+            width: 150px;
+            height: 150px;
+            border: 5px solid #fff;
+            border-radius: 50%;
+            position: absolute;
+            top: 150px;
+            left: calc(50% - 75px);
+        }
+
+        .name {
+            font-size: 24px;
+            font-weight: bold;
+            color: #333;
+            text-align: center;
+            margin-top: 10px;
+        }
+
+        .headline {
+            font-size: 18px;
+            color: #0073b1;
+            text-align: center;
+        }
+
+        .profile-info {
+            background: #fff;
+            width: 75%; /* Ancho del 75% del body */
+            margin: 20px auto; /* Centrar horizontalmente */
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+            padding: 20px;
+        }
+
+        .summary {
+            font-size: 16px;
+            margin-top: 20px;
+            text-align: left;
+        }
+    </style>
+</head>
+<body>
+    <div class="navbar">
+        <div class="logo">LinkedIn</div>
+        <div class="menu">
+            <div class="menu-item">Inicio</div>
+            <div class="menu-item">Mi Perfil</div>
+            <div class="menu-item">Red</div>
+            <div class="menu-item">Empleos</div>
+        </div>
+    </div>
+
+    <div class="cover">
+        <img class="profile-pic" src="profesor.png" alt="Tu Foto de Perfil">
+    </div>
+
+    <div class="profile-info">
+        <br>
+        <h1 class="name">JUANCITO PEÑA</h1>
+        <p class="headline">Ingeniero en Sistemas y Computación</p>
+        <p class="summary">
+            Soy un apasionado de Tecnologia con 10 años de experiencia. Me especializo en Desarrollo de Software Me encanta Analisis de Datos.
+        </p>
+    </div>
+</body>
+</html>
